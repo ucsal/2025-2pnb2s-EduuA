@@ -13,4 +13,9 @@ public class Order {
 	public List<Item> getItems() {
 		return items;
 	}
+
+    public Object stream() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'stream'");
+    }
 }
